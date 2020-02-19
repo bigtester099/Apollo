@@ -1,7 +1,7 @@
 {
-  "name": "TitaniumPhoenix",
-  "description": "TitaniumNetwork's Flagship Proxy Site.",
-  "repository": "https://github.com/titaniumnetwork-dev/phoenix-reborn",
+  "name": "GoldenNetwork",
+  "description": "GoldenNetwork's Flagship Proxy Site.",
+  "repository": "https://github.com/bigtester099/Apollo",
   "logo": "https://node-js-sample.herokuapp.com/node.png",
   "keywords": ["proxy", "filter", "bypass"]
 }
