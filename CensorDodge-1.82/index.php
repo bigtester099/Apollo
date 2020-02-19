@@ -35,7 +35,7 @@ if (@$templates["miniForm"]) { ob_start(); include("".$templates["miniForm"]."")
 
 if (!@$_GET["cdURL"]) { //Only run if no URL has been submitted
     if (!@$templates["home"]) {
-        echo "<html><head><title>".ucfirst(strtolower($_SERVER['SERVER_NAME']))." - Censor Dodge ".$proxy->version."</title></head><body>"; //Basic title
+        echo "<html><head><title>".ucfirst(strtolower($_SERVER['SERVER_NAME']))." - cd ".$proxy->version."</title></head><body>"; //Basic title
 
         //Basic submission form with base64 encryption support
         echo "
