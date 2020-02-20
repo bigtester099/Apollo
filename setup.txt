@@ -31,4 +31,4 @@ file_put_contents($path_config, $config);
 
 echo "New Key: {$key}\r\n";
 
-?>
+?> 
