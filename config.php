@@ -21,7 +21,6 @@ $config['url_mode'] = 3;
 
 // plugins to load - plugins will be loaded in this exact order as in array
 $config['plugins'] = array(
-	'Cache',
 	'HeaderRewrite',
 	'Stream',
 	// ^^ do not disable any of the plugins above
